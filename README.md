@@ -5,3 +5,4 @@
 - hasOne through & hasMany through
 - One to One & One to Many Polymorphic Relationship
 - Many to Many Polymorphic Relationship
+- Eloquent Relationship (ORM) using CRUD
